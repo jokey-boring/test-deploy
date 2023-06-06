@@ -1,0 +1,23 @@
+{
+  "name": "test-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokey-boring/test-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jokey-boring/test-deploy/issues"
+  },
+  "homepage": "https://github.com/jokey-boring/test-deploy#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
