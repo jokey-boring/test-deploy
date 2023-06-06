@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/jokey-boring/test-deploy#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash-es": "^4.17.21"
   }
 }

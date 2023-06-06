@@ -1,4 +1,4 @@
-import { sum } from 'lodash'
+import { sum } from 'lodash-es'
 
 console.log('hello world')
 console.log('new message')
